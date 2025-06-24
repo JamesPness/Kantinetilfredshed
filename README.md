@@ -19,3 +19,8 @@ For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart det:
 ![arduino-flowchart](https://github.com/user-attachments/assets/306baa1d-a5f6-4171-98f6-aaa4ba58ac81)
 
 ### Server / Datalaget
+Serveren har 2 formål.
+1. Lagre dataen med timestamps.
+2. Modtage requests om at aflevere data, og requests om at tilgå data.
+Det lavede vi et flowchart over så det var nemt at få overblik.
+![server-flowchart](https://github.com/user-attachments/assets/934ab91f-8665-4e52-8b50-4e5d2c47523e)
