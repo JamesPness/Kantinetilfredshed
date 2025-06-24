@@ -28,8 +28,24 @@ Det første vi gik i gang med var at lave logiklaget. Logiklaget havde vi allede
 For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart til det: <br> 
 ![arduino-flowchart](https://github.com/user-attachments/assets/aa105073-9148-4705-9437-998a68dd29c1)
 
-## Knappe-kasse / Præsentationslaget
-Derefter gik
+For at gøre det nemt for brugeren at interagere med har vi valgt at benytte store knapper der både har en farve og et symbol der viser "hvad de gør".
+
+Koden til arduinoen er blevet forbedret i en iterativ process, koden kan ses inde på dette Github Repo eller på dette link: <br>
+[https://github.com/JamesPness/Kantinetilfredshed/blob/main/main.cpp](url)
+
+## Præsentationslaget
+Derefter gik vi i gang med præsentationslaget, det var delt op i 2 dele, den ene var bruger interagering og det andet var datavisualisering.
+
+### Knappe-kasse / Bruger interagering
+Først lavede vi en skitse på baggrund af vores krav / features og brainstorm
+![skitse](https://github.com/user-attachments/assets/f0320cdb-e709-45d3-8573-05ae06f13cea)
+
+Derefter gik vi i gang med at designe kassen som den skal kunne være i. Fordi den skulle kunne produceres lokalt, altså enten lasercut eller 3dprint, valgte vi at lave en lasercutet kasse.
+Kassen er designet ud fra skitsen og ser således ud før det er skåret ud: <br>
+![knappe-kasse](https://github.com/user-attachments/assets/742552c1-f55e-4021-acff-f1301ade6a58)
+Kassen er designet med "finger joints" som er med til at holde kassen sammen.
+
+### Skærm / Datavisualisering
 
 ## Server / Datalaget
 Serveren har 2 formål.
@@ -38,3 +54,5 @@ Serveren har 2 formål.
 
 Det lavede vi et flowchart over så det var nemt at få overblik. <br>
 ![server_flowchart](https://github.com/user-attachments/assets/7ba723df-c004-42d7-9ade-bae8c5f2fc96)
+
+## Fremtiden
