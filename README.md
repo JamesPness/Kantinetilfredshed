@@ -9,3 +9,13 @@ Da vi så havde brainstormen på plads fandt vi nogle krav til løsningen og der
 ![brainstorm_afgrænset](https://github.com/user-attachments/assets/cfc68d32-98df-477f-b8ac-485239ecaf4d)
 
 ## Systemoversigt
+Da vi havde på plads hvad vores system skulle kunne og hvordan den så ud, samt havde gruppe strukturen på plads begynde vi at arbejde med selve systemet. Vi har valgt at dele systemet op i 3 lag: Præsentationslaget, Logiklaget og Datalaget. De ses her:
+![blokdiagram-trelagsmodel](https://github.com/user-attachments/assets/091d3a0d-d28d-4ce8-85f0-74b8ea3bc236)
+
+### Knappe-kasse / Præsentationslaget
+
+### Arduinoen / Logiklaget
+For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart det: <br> 
+![arduino-flowchart](https://github.com/user-attachments/assets/69af8b53-af36-49c7-9628-9e0a50cd4c07)
+
+### Server / Datalaget
