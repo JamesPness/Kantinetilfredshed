@@ -24,9 +24,118 @@ Da vi havde på plads hvad vores system skulle kunne og hvordan den så ud, samt
 ![blokdiagram-trelagsmodel](https://github.com/user-attachments/assets/6d76eff1-115e-4b9b-9460-9b5e4015b034)
 
 ## Arduinoen / Logiklaget
-Det første vi gik i gang med var at lave logiklaget. Logiklaget havde vi allederde fået at vide skulle være en arduino.
-For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart til det: <br> 
+Det første vi gik i gang med var at lave logiklaget.
+Dette havde vi allerede fået givet at det skulle forgå på en Arduino.
+For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart: <br> 
 ![arduino-flowchart](https://github.com/user-attachments/assets/aa105073-9148-4705-9437-998a68dd29c1)
+Dette flowchart skal ræpræsentere den basal funktion af arduinoen.
+Efter fiflen fik vi den første prototype op og køre:
+```cpp
+#include "rgb_lcd.h"
+#include <Arduino.h>
+
+// Sæt et navn til de forskellige pins for at undgå forvirring
+#define RED_LIGHT 6
+#define RED_INPUT 7
+
+#define YELLOW_LIGHT 8
+#define YELLOW_INPUT 9
+
+#define GREEN_LIGHT 2
+#define GREEN_INPUT 3
+
+// Initialiser de brugte variabler
+rgb_lcd lcd;
+
+short colorR = 0;
+short colorG = 255;
+short colorB = 0;
+
+short input_delay = 2000;
+
+short buttons[3];
+short lights[3];
+
+// Setup - Kode der sørger for yderligererr opsætning af variabler
+void setup() {
+  Serial.begin(9600);
+  while (!Serial);
+
+  //færdoggør variabel initialisering
+  buttons[0] = RED_INPUT;
+  buttons[1] = YELLOW_INPUT;
+  buttons[2] = GREEN_INPUT;
+
+  lights[0] = RED_LIGHT;
+  lights[1] = YELLOW_LIGHT;
+  lights[2] = GREEN_LIGHT;
+
+  // Opsæt pinmode for lys og knapper
+  pinMode(RED_LIGHT, OUTPUT);
+  pinMode(RED_INPUT, INPUT_PULLUP);
+
+  pinMode(YELLOW_LIGHT, OUTPUT);
+  pinMode(YELLOW_INPUT, INPUT_PULLUP);
+
+  pinMode(GREEN_LIGHT, OUTPUT);
+  pinMode(GREEN_INPUT, INPUT_PULLUP);
+
+  // SLuk alle lysende
+  digitalWrite(RED_LIGHT, LOW);
+  digitalWrite(YELLOW_LIGHT, LOW);
+  digitalWrite(GREEN_LIGHT, LOW);
+
+  // Initialiser LCD-skærmen og print en lille besked
+  lcd.begin(16, 2);
+  lcd.setRGB(colorR, colorG, colorB);
+  lcd.setCursor(0,0);
+  lcd.print("Kantine-");
+  lcd.setCursor(0,1);
+  lcd.print("tilfredshed");
+
+  //Giv brugeren tid til at læse beskeden
+  delay(1500);
+
+  colorR = 255;
+  colorG = 255;
+  colorB = 255;
+}
+
+// Loop - Kode der kører hele tiden
+// Denne funktion kører hele tiden og tjekker om der er trykket på en knap
+void loop() {
+
+  // Løb igennem alle knapperne igennem, og få dem til at lyse hvis de bliver trykket på.
+  for (int i = 0; i<3; i++){
+    if(digitalRead(buttons[i]) == HIGH){ 
+      digitalWrite(lights[i], HIGH);
+      Serial.println(i);
+
+    // lav lcd skærmen samme farve som den knap der trykkes på
+      if (i == 0) {
+        lcd.setRGB(255, 0, 0);
+      } else if (i == 1) {
+        lcd.setRGB(255, 255, 0);
+      } else if (i == 2) {
+        lcd.setRGB(0, 255, 0);
+      }
+    } else {
+      digitalWrite(lights[i], LOW); // hvis ikke de bliver trykket på sørg for at de bliver slukket
+    }
+  }
+
+  // Skriv en lille besked hvis ikke der sker noget
+  lcd.clear();
+  lcd.setCursor(0,0);
+  lcd.print("Er maden god?");
+  lcd.setCursor(0,1);
+  lcd.print("Giv os et preg!");
+
+  delay(100);
+}
+```
+Da den grove functionalitet nu er blevet skrevet ned, skal et mere avanceret og fyldesgørende design laves:
+
 
 For at gøre det nemt for brugeren at interagere med har vi valgt at benytte store knapper der både har en farve og et symbol der viser "hvad de gør".
 
