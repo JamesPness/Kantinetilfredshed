@@ -1,0 +1,153 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="8-GkpwidqtBzS7M_V5BT">
+    <mxGraphModel dx="2205" dy="2591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;" parent="1" source="MAxt--J6X_ddA_qrxUb2-3" target="MAxt--J6X_ddA_qrxUb2-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-3" value="&lt;font&gt;&lt;span style=&quot;&quot;&gt;START&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="314" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MAxt--J6X_ddA_qrxUb2-7" target="z9XoiVaWoPFjP_ckvmZY-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;Ingen knap&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;trykkes&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="z9XoiVaWoPFjP_ckvmZY-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.0278" y="-4" relative="1" as="geometry">
+            <mxPoint x="14" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MAxt--J6X_ddA_qrxUb2-7" target="z9XoiVaWoPFjP_ckvmZY-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-29" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Single Day&quot;&gt;1 knap trykkes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="z9XoiVaWoPFjP_ckvmZY-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.1056" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-21" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MAxt--J6X_ddA_qrxUb2-7" target="RYMe7xX0i0awSRNdQg_c-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-22" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;Mere en 1&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;knap trykkes&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="RYMe7xX0i0awSRNdQg_c-21">
+          <mxGeometry x="-0.2305" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-7" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hvor mange&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;knapper&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;trykkes?&lt;/span&gt;&lt;/div&gt;" style="rhombus;html=1;fontFamily=Single Day;fillColor=#e1d5e7;strokeColor=#9673a6;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="309" y="450" width="129" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;fontSize=16;" parent="1" source="MAxt--J6X_ddA_qrxUb2-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-8" value="Initialiser LCD-skærm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="321" y="20" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-31" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MAxt--J6X_ddA_qrxUb2-12" target="RYMe7xX0i0awSRNdQg_c-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-12" value="&lt;b&gt;Vis besked:&lt;/b&gt;&lt;div&gt;&lt;i&gt;&quot;Kantinetilfredshed&quot;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;I&lt;b&gt; 1,5 sekunder&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="284" y="220" width="179" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MAxt--J6X_ddA_qrxUb2-31" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot;&gt;Flowchart over&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot;&gt;kantinetilfredsheds&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot;&gt;arduino&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontSize=30;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;" parent="1" vertex="1">
+          <mxGeometry x="103" y="-60" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="z9XoiVaWoPFjP_ckvmZY-4" target="MAxt--J6X_ddA_qrxUb2-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-4" value="&lt;font face=&quot;Single Day&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Klargør variabler&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Single Day&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Opsæt pins&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="314" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-7" value="&lt;b&gt;Vis besked:&lt;/b&gt;&lt;div&gt;&lt;i&gt;&quot;Er maden god?&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Giv os et preg!&quot;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;For at opfordre til svar&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fontFamily=Single Day;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="20" y="455" width="179" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-15" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;Vis besked:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;i&gt;&lt;font face=&quot;Single Day&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; style=&quot;font-size: 16px;&quot;&gt;&quot;Hold knappen nede&quot;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="296" y="610" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="z9XoiVaWoPFjP_ckvmZY-18" target="z9XoiVaWoPFjP_ckvmZY-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-18" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;Vis opdateret Statuslinje&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;Få den trykkede knap&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;til at lyse&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;&lt;b style=&quot;&quot;&gt;Få lcd skærmen til at lyse samme farve&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="296.75" y="710" width="157.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-7" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9XoiVaWoPFjP_ckvmZY-22" target="RYMe7xX0i0awSRNdQg_c-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ja&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="RYMe7xX0i0awSRNdQg_c-7">
+          <mxGeometry x="-0.0527" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-13" style="edgeStyle=none;curved=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z9XoiVaWoPFjP_ckvmZY-22" target="RYMe7xX0i0awSRNdQg_c-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="1010" />
+              <mxPoint x="750" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;NEJ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="RYMe7xX0i0awSRNdQg_c-13">
+          <mxGeometry x="-0.9472" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9XoiVaWoPFjP_ckvmZY-22" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Single Day&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Er samme knap&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Single Day&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;holdt nede&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Single Day&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;i 2 sekunder?&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="303" y="930" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-5" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="z9XoiVaWoPFjP_ckvmZY-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="670" as="sourcePoint" />
+            <mxPoint x="420" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-18" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RYMe7xX0i0awSRNdQg_c-6" target="RYMe7xX0i0awSRNdQg_c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;Vis besked:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;&quot;Tak for din tid!&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot;&gt;Svaret er gemt&quot;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="1120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-17" value="Send bedsked til server om at lager den nye data" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="517" y="1120" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-24" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RYMe7xX0i0awSRNdQg_c-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="647" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-20" value="&lt;b&gt;Vis besked:&lt;/b&gt;&lt;div&gt;&lt;i&gt;&quot;Input overload&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Vælg EN knap!&quot;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Gør skærmen rød for at signalerer fejl&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Single Day;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSingle%2BDay;" vertex="1" parent="1">
+          <mxGeometry x="540" y="455" width="165.5" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-29" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RYMe7xX0i0awSRNdQg_c-26" target="MAxt--J6X_ddA_qrxUb2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-26" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Single+Day&quot; face=&quot;Single Day&quot; style=&quot;font-size: 16px;&quot;&gt;Vent 0,1 sekund for at undgå flimmer på skærmen&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;direction=east;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="303" y="320" width="136.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-32" style="edgeStyle=none;curved=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z9XoiVaWoPFjP_ckvmZY-7" target="RYMe7xX0i0awSRNdQg_c-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYMe7xX0i0awSRNdQg_c-34" style="edgeStyle=none;curved=0;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RYMe7xX0i0awSRNdQg_c-17" target="RYMe7xX0i0awSRNdQg_c-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="1155" />
+              <mxPoint x="750" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
