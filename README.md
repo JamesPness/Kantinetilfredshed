@@ -16,6 +16,6 @@ Da vi havde på plads hvad vores system skulle kunne og hvordan den så ud, samt
 
 ### Arduinoen / Logiklaget
 For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart det: <br> 
-![arduino-flowchart](https://github.com/user-attachments/assets/69af8b53-af36-49c7-9628-9e0a50cd4c07)
+![arduino-flowchart](https://github.com/user-attachments/assets/306baa1d-a5f6-4171-98f6-aaa4ba58ac81)
 
 ### Server / Datalaget
