@@ -23,13 +23,15 @@ Og et billede af Trelloen ses nedenunder: <br>
 Da vi havde på plads hvad vores system skulle kunne og hvordan den så ud, samt havde gruppe strukturen på plads begynde vi at arbejde med selve systemet. Vi har valgt at dele systemet op i 3 lag: Præsentationslaget, Logiklaget og Datalaget. De ses her:
 ![blokdiagram-trelagsmodel](https://github.com/user-attachments/assets/6d76eff1-115e-4b9b-9460-9b5e4015b034)
 
-### Knappe-kasse / Præsentationslaget
-
-### Arduinoen / Logiklaget
+## Arduinoen / Logiklaget
+Det første vi gik i gang med var at lave logiklaget. Logiklaget havde vi allederde fået at vide skulle være en arduino.
 For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart til det: <br> 
 ![arduino-flowchart](https://github.com/user-attachments/assets/aa105073-9148-4705-9437-998a68dd29c1)
 
-### Server / Datalaget
+## Knappe-kasse / Præsentationslaget
+Derefter gik
+
+## Server / Datalaget
 Serveren har 2 formål.
 1. Lagre dataen med timestamps.
 2. Modtage requests om at aflevere data, og requests om at tilgå data.
