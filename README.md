@@ -1,5 +1,5 @@
-# Kantinetilfredshed
-Informatik eksamnen 2025
+# Kantinetilfredshed | Informatik eksamen 2025
+Elevrådet vil gerne kunne krotlægge elevernes tilfredshed med kantinens mad. I skal designe et system, hvor elever kan give feedback med knapper, og hvor data kan aflæses digitalt. Da det er en lokalt produceret løsning skal dele af systemet kunne produceres i skolens makerspace (3D print / Lasercut)
 
 ## Opstart
 Vi startede hele projektet med at læse opgaven og derefter lave en brainstorm over hvordan man kunne løse den.
