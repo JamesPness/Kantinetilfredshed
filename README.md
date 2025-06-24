@@ -22,5 +22,6 @@ For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart det:
 Serveren har 2 formål.
 1. Lagre dataen med timestamps.
 2. Modtage requests om at aflevere data, og requests om at tilgå data.
+
 Det lavede vi et flowchart over så det var nemt at få overblik. <br>
 ![server_flowchart](https://github.com/user-attachments/assets/7ba723df-c004-42d7-9ade-bae8c5f2fc96)
