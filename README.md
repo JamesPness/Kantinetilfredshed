@@ -427,11 +427,11 @@ Noter fra testen:
 - Træls at der skal være ledning tilsluttet arduinoen.
 
 - Forvirrende ord- formulering i ratings system:
- - Det er svært at vurderer hvad "hverken eller" betyder, da præmissen er, at maden ér god
- - det graden af "god" der vurderes på. 
- - Alternativ svarmulighed : ikke god -god- meget god.
+  - Det er svært at vurderer hvad "hverken eller" betyder, da præmissen er, at maden ér god
+  - det graden af "god" der vurderes på. 
+  - Alternativ svarmulighed : ikke god -god- meget god.
 - Det er ikke mega intuitivt at holde knappen nede
- - Det ville man ikke umilbart gide at bruge tid på
+  - Det ville man ikke umilbart gide at bruge tid på
 - Godt med farveskifte - Det giver mening, og passer med forventiningen til "rigtig" og forket adfær
 - Man kunne eventuelt tilføje en lyd (ligsom med rejsekortsterminalen) der intruereri om dataen er blevet opsamlet. "pling!" eller "ERRHH!!"
 - Mulighed for at bytte svar rundt...
