@@ -140,7 +140,7 @@ void loop() {
 </details>
 Da den grove funktionalitet nu er blevet skrevet ned, skal et mere avanceret og fyldesgørende design laves:
 
-![arduino-flowchart - v2](https://github.com/user-attachments/assets/98487fe2-8a36-4d65-ae6c-ffc7d7dd823b)
+![arduino-flowchart - v2](https://github.com/user-attachments/assets/fdcfa026-8fb2-41d9-880f-b58141f28db5)
 Den nye og opdaterede version er forbedret med håndtering af input, samt en let delay for at forhindre for megen spam.
 <details open>
 <summary>Den nye og kode ser nu sådan ud:</summary>
