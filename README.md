@@ -409,7 +409,7 @@ Det lavede vi et flowchart over så det var nemt at få overblik. <br>
 ![server_flowchart](https://github.com/user-attachments/assets/7ba723df-c004-42d7-9ade-bae8c5f2fc96)
 Server siden er ikke lavet i virkligheden men var tænkt at fungere som vist i flowchartet.
 
-## Re-evaluering & Brugertest
+## Evaluering
 ### Re-evaluering af krav/features
 Efter vores design med at hele tiden forbedre ser vores krav / features nu således ud:
 ![kravfeatures-opdateret](https://github.com/user-attachments/assets/3b4ae7b0-3269-4a5d-8a24-6e6ff4a0dd54)
@@ -425,6 +425,18 @@ Noter fra testen:
 - Kunne være fedt med en nem / indbygget måde at downloade dataen.
 - Fedt at der er dato på datavisualiseringen.
 - Træls at der skal være ledning tilsluttet arduinoen.
+
+
+### Innovations evaluering
+4P-modellen
+- Produkt-innovation
+  - Ikke rigtigt, produktet findes allerede.
+- Proces-innovation
+  - Ikke rigtigt.
+- Positions-innovation
+  - Måske lidt, i stedet for at det bare er et produkt man køber skal man også samle det selv.
+- Paradigme-innovation
+  - Måske lidt, vi tilbyder et simplet og billigt system som alle kan bruge frem for et færdigt system.
 
 
 ## Fremtiden
