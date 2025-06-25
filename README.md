@@ -255,7 +255,7 @@ void loop() {
     lcd.setCursor(0,0);
     lcd.print("Er maden god?");
     lcd.setCursor(0,1);
-    lcd.print("Giv os et preg!");
+    lcd.print("Giv os et praj!");
     lcd.setRGB(255,255,255);
 
   } else if (button_pressed == -2){ // Hvis der er trykket på to eller flere knapper
