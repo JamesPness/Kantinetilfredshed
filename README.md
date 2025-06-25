@@ -353,6 +353,16 @@ void confirm_button_press(short button){
 }
 ```
 </details>
+## LCD - STATUSSKÆRM
+Fokus punkter: 
+- Sørg for at holde et vendeligt udtryk, ingen stærke farver med mindre der går noget galt
+- Sørg for at brugeren bliver taget ved hånden og ved hvad der foregår under processen
+- Komonikations metoderne skal stemme over ens med eksisterende "standarter"
+
+![IMG_20250625_093211](https://github.com/user-attachments/assets/2af5acff-66e4-4cd4-894f-6fab93a492bc)
+![IMG_20250625_093225](https://github.com/user-attachments/assets/8d63b412-0808-4dc3-b7af-232655929f89)
+![IMG_20250625_093639](https://github.com/user-attachments/assets/f6961757-176d-47bc-beee-f39464a03bc5)
+![IMG_20250625_094205](https://github.com/user-attachments/assets/7221db1a-e4cf-4206-9664-c750cddffcaf)
 
 ## Præsentationslaget
 Derefter gik vi i gang med præsentationslaget, det var delt op i 2 dele, den ene var bruger interagering og det andet var datavisualisering.
@@ -370,7 +380,20 @@ Kassen er designet med "finger joints" som er med til at holde kassen sammen.
 Vi lavede først en grow skitse over hvordan vi kunne tænke os at dataen skulle præsenteres for brugerene.
 ![datavisualisering-grow](https://github.com/user-attachments/assets/d96bdb9b-faf2-460d-9f2e-2bef15ff32d3)
 
-Da vi så skulle endeligt designe layoutet kiggede vi blandt andet på Jacob Nielsen's 10 bud.
+Vi har i processen forsøgt at giver overblik i strukturen ved hjælp af gestaltlovene:
+
+- Loven firgur og baggrund
+  - Vi har sørget for at holde baggrundfarverne adskilt fra Data motivet. for at ungå forvirring.
+
+- Loven om forbundethed
+  - Vi har farvekordineret dataens baggrund så data der hænger sammen har samme farve. Dem for dagen hænger sammen, dem for en længerækkende oversigt hænger sammen.
+    
+- Loven og nærhed
+  - Vi har forsøgt at samle sammenhængende elementer
+    
+- Loven om Lukkethed
+   - Vi har forsøgt at inkapsle de forskeliige elementer i hver deres kasse for at tydeligøre at det er to forskellige data repræsentationer.
+     
 ![datavisualisering](https://github.com/user-attachments/assets/6e5ba890-0ede-4fee-82c7-25db38d7ae7f)
 
 Dette er den primære måde at se dataen på men dataen kan dog også hentes som en CSV fil fra serveren.
