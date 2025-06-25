@@ -30,7 +30,9 @@ For at få styr på hvad vores arduino skulle kunne, lavede vi et flowchart: <br
 ![arduino-flowchart](https://github.com/user-attachments/assets/aa105073-9148-4705-9437-998a68dd29c1)
 Dette flowchart skal ræpræsentere den basal funktion af arduinoen.
 For at gøre det nemt for brugeren at interagere med har vi valgt at benytte store knapper der både har en farve og et symbol der viser "hvad de gør".
-Efter fiflen fik vi den første prototype op og køre:
+<details open>
+<summary>Efter fiflen fik vi den første prototype op og køre:</summary>
+
 ```cpp
 #include "rgb_lcd.h"
 #include <Arduino.h>
@@ -135,10 +137,14 @@ void loop() {
   delay(100);
 }
 ```
+</details>
 Da den grove funktionalitet nu er blevet skrevet ned, skal et mere avanceret og fyldesgørende design laves:
+
 ![arduino-flowchart - v2](https://github.com/user-attachments/assets/a621ffc8-37cf-4642-869c-130d89581540)
 Den nye og opdaterede version er forbedret med håndtering af input, samt en let delay for at forhindre for megen spam.
-Den nye og kode ser nu sådan ud:
+<details open>
+<summary>Den nye og kode ser nu sådan ud:</summary>
+
 ```cpp
 #include <Wire.h>
 #include "rgb_lcd.h"
@@ -346,6 +352,7 @@ void confirm_button_press(short button){
   delay(2000);
 }
 ```
+</details>
 
 ## Præsentationslaget
 Derefter gik vi i gang med præsentationslaget, det var delt op i 2 dele, den ene var bruger interagering og det andet var datavisualisering.
@@ -360,6 +367,13 @@ Kassen er designet ud fra skitsen og ser således ud før det er skåret ud: <br
 Kassen er designet med "finger joints" som er med til at holde kassen sammen.
 
 ### Skærm / Datavisualisering
+Vi lavede først en grow skitse over hvordan vi kunne tænke os at dataen skulle præsenteres for brugerene.
+![datavisualisering-grow](https://github.com/user-attachments/assets/d96bdb9b-faf2-460d-9f2e-2bef15ff32d3)
+
+Da vi så skulle endeligt designe layoutet kiggede vi blandt andet på Jacob Nielsen's 10 bud.
+![datavisualisering](https://github.com/user-attachments/assets/6e5ba890-0ede-4fee-82c7-25db38d7ae7f)
+
+Dette er den primære måde at se dataen på men dataen kan dog også hentes som en CSV fil fra serveren.
 
 ## Server / Datalaget
 Serveren har 2 formål.
