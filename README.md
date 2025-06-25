@@ -414,9 +414,16 @@ Efter vores design med at hele tiden forbedre ser vores krav / features nu såle
 ![kravfeatures-opdateret](https://github.com/user-attachments/assets/3b4ae7b0-3269-4a5d-8a24-6e6ff4a0dd54)
 
 
-### Brugertest
+### Brugertest | Think aloud / Tænke-højt-test
 Fordi vores system skal bruges på et gymnasie har vi spurgt folk der har samme alder som vores målgruppe på 15-20 årige.
 
+Noter fra testen:
+- Knapperne er store og overskulige.
+- Datavisualiseringen er nem og overskulig.
+- Baggrundsfarven til datavisualiseringen kunne godt være mere adskilt.
+- Kunne være fedt med en nem / indbygget måde at downloade dataen.
+- Fedt at der er dato på datavisualiseringen.
+- Træls at der skal være ledning tilsluttet arduinoen.
 
 
 ## Fremtiden
