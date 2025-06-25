@@ -394,7 +394,8 @@ Vi har i processen forsøgt at giver overblik i strukturen ved hjælp af gestalt
   
 - Loven om Lukkethed
    - Vi har forsøgt at inkapsle de forskeliige elementer i hver deres kasse for at tydeligøre at det er to forskellige data repræsentationer.
-     
+
+Dataen kommer til at være displayet fra en hjemmeside som henter dataen fra serveren.
 ![datavisualisering](https://github.com/user-attachments/assets/6e5ba890-0ede-4fee-82c7-25db38d7ae7f)
 
 Dette er den primære måde at se dataen på men dataen kan dog også hentes som en CSV fil fra serveren.
@@ -408,7 +409,7 @@ Det lavede vi et flowchart over så det var nemt at få overblik. <br>
 ![server_flowchart](https://github.com/user-attachments/assets/7ba723df-c004-42d7-9ade-bae8c5f2fc96)
 Server siden er ikke lavet i virkligheden men var tænkt at fungere som vist i flowchartet.
 
-## Re-evaluering & Brugertest
+## Evaluering
 ### Re-evaluering af krav/features
 Efter vores design med at hele tiden forbedre ser vores krav / features nu således ud:
 ![kravfeatures-opdateret](https://github.com/user-attachments/assets/3b4ae7b0-3269-4a5d-8a24-6e6ff4a0dd54)
@@ -426,5 +427,20 @@ Noter fra testen:
 - Træls at der skal være ledning tilsluttet arduinoen.
 
 
-## Fremtiden
+### Innovations evaluering
+4P-modellen
+- Produkt-innovation
+  - Ikke rigtigt, produktet findes allerede.
+- Proces-innovation
+  - Ikke rigtigt.
+- Positions-innovation
+  - Måske lidt, i stedet for at det bare er et produkt man køber skal man også samle det selv.
+- Paradigme-innovation
+  - Måske lidt, vi tilbyder et simplet og billigt system som alle kan bruge frem for et færdigt system.
 
+
+## Fremtiden
+Noget af det vi gerne vil lave i fremtiden / forbedre er blandt andet nogle af de punkter der var i brugertesten.<br>
+- Vi vil blandt andet forbedre datavisualiseringen så der ikke er nogen tvivl om hvilke dataer der hænger sammen.
+- Vi vil tilføje et batteri så kassen ikke skal være tilsluttet strøm hele tiden.
+- Vi vil tilføje en nem måde at downloade dataen, nok fra hjemmesiden som datavisualiseringen vil være.
