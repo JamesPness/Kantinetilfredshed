@@ -140,7 +140,7 @@ void loop() {
 </details>
 Da den grove funktionalitet nu er blevet skrevet ned, skal et mere avanceret og fyldesgørende design laves:
 
-![arduino-flowchart - v2](https://github.com/user-attachments/assets/a621ffc8-37cf-4642-869c-130d89581540)
+![arduino-flowchart - v2](https://github.com/user-attachments/assets/98487fe2-8a36-4d65-ae6c-ffc7d7dd823b)
 Den nye og opdaterede version er forbedret med håndtering af input, samt en let delay for at forhindre for megen spam.
 <details open>
 <summary>Den nye og kode ser nu sådan ud:</summary>
@@ -353,11 +353,12 @@ void confirm_button_press(short button){
 }
 ```
 </details>
-## LCD - STATUSSKÆRM
+
+### LCD - STATUSSKÆRM
 Fokus punkter: 
-- Sørg for at holde et vendeligt udtryk, ingen stærke farver med mindre der går noget galt
-- Sørg for at brugeren bliver taget ved hånden og ved hvad der foregår under processen
-- Komonikations metoderne skal stemme over ens med eksisterende "standarter"
+- Sørg for at holde et vendeligt udtryk, ingen stærke farver med mindre der går noget galt.
+- Sørg for at brugeren bliver taget ved hånden og ved hvad der foregår under processen.
+- Kommunikations metoderne skal stemme overens med eksisterende "standarter".
 
 ![IMG_20250625_093211](https://github.com/user-attachments/assets/2af5acff-66e4-4cd4-894f-6fab93a492bc)
 ![IMG_20250625_093225](https://github.com/user-attachments/assets/8d63b412-0808-4dc3-b7af-232655929f89)
@@ -382,15 +383,15 @@ Vi lavede først en grow skitse over hvordan vi kunne tænke os at dataen skulle
 
 Vi har i processen forsøgt at giver overblik i strukturen ved hjælp af gestaltlovene:
 
-- Loven firgur og baggrund
+- Loven om firgur og baggrund
   - Vi har sørget for at holde baggrundfarverne adskilt fra Data motivet. for at ungå forvirring.
 
 - Loven om forbundethed
   - Vi har farvekordineret dataens baggrund så data der hænger sammen har samme farve. Dem for dagen hænger sammen, dem for en længerækkende oversigt hænger sammen.
     
-- Loven og nærhed
+- Loven om nærhed
   - Vi har forsøgt at samle sammenhængende elementer
-    
+  
 - Loven om Lukkethed
    - Vi har forsøgt at inkapsle de forskeliige elementer i hver deres kasse for at tydeligøre at det er to forskellige data repræsentationer.
      
@@ -405,5 +406,18 @@ Serveren har 2 formål.
 
 Det lavede vi et flowchart over så det var nemt at få overblik. <br>
 ![server_flowchart](https://github.com/user-attachments/assets/7ba723df-c004-42d7-9ade-bae8c5f2fc96)
+Server siden er ikke lavet i virkligheden men var tænkt at fungere som vist i flowchartet.
+
+## Re-evaluering & Brugertest
+### Re-evaluering af krav/features
+Efter vores design med at hele tiden forbedre ser vores krav / features nu således ud:
+![kravfeatures-opdateret](https://github.com/user-attachments/assets/3b4ae7b0-3269-4a5d-8a24-6e6ff4a0dd54)
+
+
+### Brugertest
+Fordi vores system skal bruges på et gymnasie har vi spurgt folk der har samme alder som vores målgruppe på 15-20 årige.
+
+
 
 ## Fremtiden
+
